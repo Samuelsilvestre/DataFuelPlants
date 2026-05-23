@@ -1,0 +1,116 @@
+category,type,month,volume,growf_month
+Fossil,Aviation Kerosene (Jet-A1),2026-02,6583038.36,NULL
+Fossil,Aviation Kerosene (Jet-A1),2026-03,23101021.97,250.92
+Fossil,Aviation Kerosene (Jet-A1),2026-04,22581920.69,-2.25
+Fossil,Aviation Kerosene (Jet-A1),2026-05,22401297.35,-0.80
+Fossil,Aviation Kerosene (Jet-A1),2026-06,21234490.12,-5.21
+Fossil,Aviation Kerosene (Jet-A1),2026-07,22078132.36,3.97
+Fossil,Aviation Kerosene (Jet-A1),2026-08,21516022.23,-2.55
+Fossil,Aviation Kerosene (Jet-A1),2026-09,21773354.05,1.20
+Fossil,Aviation Kerosene (Jet-A1),2026-10,22386904.22,2.82
+Fossil,Aviation Kerosene (Jet-A1),2026-11,21167989.63,-5.44
+Fossil,Aviation Kerosene (Jet-A1),2026-12,22523735.69,6.40
+Fossil,Aviation Kerosene (Jet-A1),2027-01,21702846.17,-3.64
+Fossil,Aviation Kerosene (Jet-A1),2027-02,19803360.25,-8.75
+Fossil,Aviation Kerosene (Jet-A1),2027-03,22056811.31,11.38
+Fossil,Aviation Kerosene (Jet-A1),2027-04,21379465.55,-3.07
+Fossil,Aviation Kerosene (Jet-A1),2027-05,21871875.15,2.30
+Fossil,Aviation Kerosene (Jet-A1),2027-06,21073431.97,-3.65
+Fossil,Aviation Kerosene (Jet-A1),2027-07,22260019.83,5.63
+Fossil,Aviation Kerosene (Jet-A1),2027-08,22181153.16,-0.35
+Fossil,Aviation Kerosene (Jet-A1),2027-09,21349028.64,-3.75
+Fossil,Aviation Kerosene (Jet-A1),2027-10,21837741.68,2.29
+Fossil,Aviation Kerosene (Jet-A1),2027-11,21901259.46,0.29
+Fossil,Aviation Kerosene (Jet-A1),2027-12,22259571.58,1.64
+Biofuel,Bio-kerosene (SAF),2026-02,2208789.18,NULL
+Biofuel,Bio-kerosene (SAF),2026-03,7625228.66,245.22
+Biofuel,Bio-kerosene (SAF),2026-04,7381335.62,-3.20
+Biofuel,Bio-kerosene (SAF),2026-05,9534152.98,29.17
+Biofuel,Bio-kerosene (SAF),2026-06,13317012.07,39.68
+Biofuel,Bio-kerosene (SAF),2026-07,13948088.75,4.74
+Biofuel,Bio-kerosene (SAF),2026-08,13487865.00,-3.30
+Biofuel,Bio-kerosene (SAF),2026-09,13500967.60,0.10
+Biofuel,Bio-kerosene (SAF),2026-10,13435808.13,-0.48
+Biofuel,Bio-kerosene (SAF),2026-11,13036492.88,-2.97
+Biofuel,Bio-kerosene (SAF),2026-12,13794559.65,5.81
+Biofuel,Bio-kerosene (SAF),2027-01,13373705.56,-3.05
+Biofuel,Bio-kerosene (SAF),2027-02,12208577.54,-8.71
+Biofuel,Bio-kerosene (SAF),2027-03,13773936.15,12.82
+Biofuel,Bio-kerosene (SAF),2027-04,13375269.67,-2.89
+Biofuel,Bio-kerosene (SAF),2027-05,13393173.66,0.13
+Biofuel,Bio-kerosene (SAF),2027-06,13228720.54,-1.23
+Biofuel,Bio-kerosene (SAF),2027-07,13476320.85,1.87
+Biofuel,Bio-kerosene (SAF),2027-08,13524283.37,0.36
+Biofuel,Bio-kerosene (SAF),2027-09,12993609.00,-3.92
+Biofuel,Bio-kerosene (SAF),2027-10,13406096.55,3.17
+Biofuel,Bio-kerosene (SAF),2027-11,13404333.79,-0.01
+Biofuel,Bio-kerosene (SAF),2027-12,13867932.91,3.46
+Biofuel,Biodiesel,2026-02,2012713.64,NULL
+Biofuel,Biodiesel,2026-03,6914887.55,243.56
+Biofuel,Biodiesel,2026-04,6795627.65,-1.72
+Biofuel,Biodiesel,2026-05,7093376.13,4.38
+Biofuel,Biodiesel,2026-06,7110568.24,0.24
+Biofuel,Biodiesel,2026-07,7411774.44,4.24
+Biofuel,Biodiesel,2026-08,7232620.22,-2.42
+Biofuel,Biodiesel,2026-09,7184823.45,-0.66
+Biofuel,Biodiesel,2026-10,7331826.55,2.05
+Biofuel,Biodiesel,2026-11,7107803.02,-3.06
+Biofuel,Biodiesel,2026-12,7352404.98,3.44
+Biofuel,Biodiesel,2027-01,7307444.86,-0.61
+Biofuel,Biodiesel,2027-02,6566143.02,-10.14
+Biofuel,Biodiesel,2027-03,7360738.96,12.10
+Biofuel,Biodiesel,2027-04,7267156.84,-1.27
+Biofuel,Biodiesel,2027-05,7279486.91,0.17
+Biofuel,Biodiesel,2027-06,7104727.44,-2.40
+Biofuel,Biodiesel,2027-07,7423399.92,4.49
+Biofuel,Biodiesel,2027-08,7308341.28,-1.55
+Biofuel,Biodiesel,2027-09,7211629.90,-1.32
+Biofuel,Biodiesel,2027-10,7290858.54,1.10
+Biofuel,Biodiesel,2027-11,7090884.67,-2.74
+Biofuel,Biodiesel,2027-12,7454052.59,5.12
+Biofuel,Ethanol,2026-02,1545991.38,NULL
+Biofuel,Ethanol,2026-03,5289749.65,242.16
+Biofuel,Ethanol,2026-04,5163186.51,-2.39
+Biofuel,Ethanol,2026-05,8304447.81,60.84
+Biofuel,Ethanol,2026-06,13645527.10,64.32
+Biofuel,Ethanol,2026-07,14186354.08,3.96
+Biofuel,Ethanol,2026-08,13955279.17,-1.63
+Biofuel,Ethanol,2026-09,13801731.14,-1.10
+Biofuel,Ethanol,2026-10,14051859.95,1.81
+Biofuel,Ethanol,2026-11,13658892.06,-2.80
+Biofuel,Ethanol,2026-12,14299087.63,4.69
+Biofuel,Ethanol,2027-01,13803006.75,-3.47
+Biofuel,Ethanol,2027-02,12739653.41,-7.70
+Biofuel,Ethanol,2027-03,14096883.77,10.65
+Biofuel,Ethanol,2027-04,13576874.00,-3.69
+Biofuel,Ethanol,2027-05,13791595.71,1.58
+Biofuel,Ethanol,2027-06,13767718.56,-0.17
+Biofuel,Ethanol,2027-07,13873861.34,0.77
+Biofuel,Ethanol,2027-08,14108435.69,1.69
+Biofuel,Ethanol,2027-09,13702962.94,-2.87
+Biofuel,Ethanol,2027-10,14120935.11,3.05
+Biofuel,Ethanol,2027-11,13489028.58,-4.47
+Biofuel,Ethanol,2027-12,14151367.08,4.91
+Fossil,Gasoline,2026-02,4577397.04,NULL
+Fossil,Gasoline,2026-03,16327831.34,256.71
+Fossil,Gasoline,2026-04,16127663.95,-1.23
+Fossil,Gasoline,2026-05,15916302.59,-1.31
+Fossil,Gasoline,2026-06,15042664.11,-5.49
+Fossil,Gasoline,2026-07,15506742.81,3.09
+Fossil,Gasoline,2026-08,15272257.96,-1.51
+Fossil,Gasoline,2026-09,14912570.63,-2.36
+Fossil,Gasoline,2026-10,15646141.74,4.92
+Fossil,Gasoline,2026-11,15044310.34,-3.85
+Fossil,Gasoline,2026-12,15672382.40,4.17
+Fossil,Gasoline,2027-01,15259067.75,-2.64
+Fossil,Gasoline,2027-02,14122723.42,-7.45
+Fossil,Gasoline,2027-03,15860567.91,12.31
+Fossil,Gasoline,2027-04,15082664.45,-4.90
+Fossil,Gasoline,2027-05,15144857.84,0.41
+Fossil,Gasoline,2027-06,15082642.17,-0.41
+Fossil,Gasoline,2027-07,15692312.77,4.04
+Fossil,Gasoline,2027-08,15537073.94,-0.99
+Fossil,Gasoline,2027-09,15163147.27,-2.41
+Fossil,Gasoline,2027-10,15491877.11,2.17
+Fossil,Gasoline,2027-11,15276163.52,-1.39
+Fossil,Gasoline,2027-12,15558419.65,1.85
