@@ -2,8 +2,6 @@
 
 Este projeto consiste na modelagem e simulação de um banco de dados relacional para uma rede de usinas de produção de combustíveis (fósseis e biocombustíveis), aplicado ao cenário da Europa Central e do Norte. O objetivo principal é o estudo de modelagem de dados com SQL para análise de cenários de produção, logística e funcionamento de plantas industriais (*plants*).
 
-> **Status do Projeto:** 🚀 Em desenvolvimento / formação.
-
 ---
 
 ## 📌 Visão Geral do Projeto
@@ -21,6 +19,7 @@ O projeto utiliza o **PostgreSQL** para garantir a integridade dos dados atravé
 
 *   **Banco de Dados:** PostgreSQL
 *   **Linguagem:** SQL Puro (DDL e DML)
+*   **IDE / Ferramenta de Banco de Dados:** DataGrip (utilizado para desenvolvimento, gerenciamento e geração de diagramas ER)
 *   **Ambiente:** Execução e consultas via CLI (Terminal)
 
 ---
@@ -32,16 +31,14 @@ O núcleo do banco de dados já está operacional com as seguintes tabelas estru
 1.  **`cities`**: Mapeia as cidades europeias, países e zonas geográficas.
 2.  **`fuel`**: Controla os tipos de combustíveis e suas categorias (Fóssil ou Biocombustível).
 3.  **`raw_material`**: Relaciona as matérias-primas aos combustíveis que elas geram.
-4.  **`production`**: Registra o volume diário em litros produzido por cada planta.
+4.  **`raw_material_inventory`**: Controla o estoque em toneladas de matérias-primas por cidade e a última atualização.
+5.  **`production`**: Registra o volume diário em litros produzido por cada planta, associando a cidade e o tipo de combustível.
 
----
+### 🗺️ Diagrama do Banco de Dados (ERD)
 
-## 📈 Próximos Passos de Escalonamento
+Abaixo está a representação visual das tabelas e seus relacionamentos, gerada através do DataGrip:
 
-Como o projeto está em fase de formação, as próximas etapas de modelagem incluirão:
-*   [ ] **Módulo de Supply Chain (Suprimentos):** Controle de estoque e chegada de cargas das matérias-primas.
-*   [ ] **Módulo Financeiro (Custos):** Rastreamento de custos operacionais das plantas e insumos.
-*   [ ] **Módulo de Vendas (Sales & Clients):** Simulação de contratos com distribuidoras e companhias aéreas europeias.
+![Diagrama do Banco de Dados](db_diagram.png)
 
 ---
 
